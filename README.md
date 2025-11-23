@@ -4,7 +4,7 @@
 This repository demonstrates GitHub workflow best practices including branching strategies, pull requests, issue tracking, and commit message conventions. It was created as part of a software development course to practice version control fundamentals.
 
 ## Data Sources
-This is an educational project and does not use external data sources. All content is created for demonstration purposes.
+This content is for demonstration of understanding how to use github
 
 ## Current Plan
 The current plan for this project includes:
